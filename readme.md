@@ -1,5 +1,8 @@
 # Katana static site & blog generator
 
+ we are going to explore the Katana PHP static website generator. This is a tool that can be installed via Composer and uses Laravels blade templating system to generate static assets from dynamic content.
+
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/themsaid/katana.svg?style=flat-square)](https://packagist.org/packages/themsaid/katana)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
 [![Total Downloads](https://img.shields.io/packagist/dt/themsaid/katana-core.svg?style=flat-square)](https://packagist.org/packages/themsaid/katana-core)
